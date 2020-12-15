@@ -1,0 +1,15 @@
+{
+  "name": "bot2020",
+  "version": "1.0.0",
+  "description": "supreme bot 2020",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "playwright": "^1.6.2"
+  }
+}
